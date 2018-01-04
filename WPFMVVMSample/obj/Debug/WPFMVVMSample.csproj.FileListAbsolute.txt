@@ -1,0 +1,15 @@
+C:\Srusti\Git\WPFMVVMSample\WPFMVVMSample\bin\Debug\WPFMVVMSample.exe.config
+C:\Srusti\Git\WPFMVVMSample\WPFMVVMSample\bin\Debug\WPFMVVMSample.exe
+C:\Srusti\Git\WPFMVVMSample\WPFMVVMSample\bin\Debug\WPFMVVMSample.pdb
+C:\Srusti\Git\WPFMVVMSample\WPFMVVMSample\obj\Debug\WPFMVVMSample.csprojResolveAssemblyReference.cache
+C:\Srusti\Git\WPFMVVMSample\WPFMVVMSample\obj\Debug\MainWindow.g.cs
+C:\Srusti\Git\WPFMVVMSample\WPFMVVMSample\obj\Debug\App.g.cs
+C:\Srusti\Git\WPFMVVMSample\WPFMVVMSample\obj\Debug\WPFMVVMSample_MarkupCompile.cache
+C:\Srusti\Git\WPFMVVMSample\WPFMVVMSample\obj\Debug\WPFMVVMSample_MarkupCompile.lref
+C:\Srusti\Git\WPFMVVMSample\WPFMVVMSample\obj\Debug\MainWindow.baml
+C:\Srusti\Git\WPFMVVMSample\WPFMVVMSample\obj\Debug\WPFMVVMSample.g.resources
+C:\Srusti\Git\WPFMVVMSample\WPFMVVMSample\obj\Debug\WPFMVVMSample.Properties.Resources.resources
+C:\Srusti\Git\WPFMVVMSample\WPFMVVMSample\obj\Debug\WPFMVVMSample.csproj.GenerateResource.Cache
+C:\Srusti\Git\WPFMVVMSample\WPFMVVMSample\obj\Debug\WPFMVVMSample.csproj.CoreCompileInputs.cache
+C:\Srusti\Git\WPFMVVMSample\WPFMVVMSample\obj\Debug\WPFMVVMSample.exe
+C:\Srusti\Git\WPFMVVMSample\WPFMVVMSample\obj\Debug\WPFMVVMSample.pdb
